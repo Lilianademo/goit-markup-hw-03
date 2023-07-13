@@ -38,11 +38,15 @@ body {
 .navigation-list{
     flex-grow: 1;
 }
+
 .page-heder,
+.footer-page{
+  width: 100%;
+  margin: 0 auto;
+}
 .main-section,
 .What-we-do,
 .team-section,
-.footer-page,
 .section-projects-img {
   max-width: 1600px;
   margin: 0 auto;
